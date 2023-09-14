@@ -54,12 +54,4 @@ Here's an overview of the project structure:
 
 We welcome contributions from the community to improve this template project. If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-Thank you for choosing this ASP.Net Core MVC Template Project with Entity Framework Auto-Migrations. We hope it accelerates your development process and makes building ASP.Net Core applications with Entity Framework more straightforward.
-
 Happy coding!
